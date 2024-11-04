@@ -10,7 +10,7 @@ namespace HelloFromMyfirstAPP
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("HelloFromMyfirstAPP World");
+            Console.WriteLine("Hello  World");
         }
     }
 }
